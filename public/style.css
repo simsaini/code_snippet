@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  align-content: center;
+  font-family: sans-serif;
+}
+
+
+nav a {
+  display: inline-block;
+  margin-left: 5px;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
